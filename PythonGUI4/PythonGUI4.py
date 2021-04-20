@@ -29,6 +29,7 @@ button3.grid(row=3, column=2, sticky=E)
 output_text = Text(window, width=40, height=10, wrap=WORD, background = "blue")
 output_text.grid(row=4, column=0, columnspan=2, sticky = E)
 
-my_dictionary = ["Motherboards", "Storage Devices, "Memory"]
+my_dictionary = ["Motherboards", "Storage Devices", "Memory]
+
 
 window.mainloop()
